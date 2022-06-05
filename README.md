@@ -20,20 +20,21 @@ Here are some ideas to get you started:
 ```text
 No activity tracked
 ```
-
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:waka-->
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_PROFILE_VIEWS-->
+<!--END_SECTION:SHOW_PROFILE_VIEWS-->
+
+<!--START_SECTION: SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION: SHOW_DAYS_OF_WEEK-->
+
+<!--START_SECTION: SHOW_LANGUAGE-->
+<!--END_SECTION: SHOW_LANGUAGE-->
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
