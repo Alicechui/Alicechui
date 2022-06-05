@@ -32,7 +32,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alicechui)](https://github.com/Alicechui/Alicechui)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicechui&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicechui&layout=compact)](https://github.com/Alicechui/Alicechui)
 
 <!--SHOW_LINES_OF_CODE stars-->
 <!--SHOW_LINES_OF_CODE ends-->
