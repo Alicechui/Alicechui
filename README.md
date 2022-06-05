@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ```text
 No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_LINES_OF_CODE-->
