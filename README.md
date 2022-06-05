@@ -30,6 +30,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicechui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--SHOW_LINES_OF_CODE stars-->
 <!--SHOW_LINES_OF_CODE ends-->
