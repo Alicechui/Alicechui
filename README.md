@@ -31,8 +31,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
+<!--SHOW_LINES_OF_CODE stars-->
+<!--SHOW_LINES_OF_CODE ends-->
 
 
 
