@@ -22,6 +22,7 @@ Here are some ideas to get you started:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
 -->
+https://wakatime.com/badge/user/e1af12a1-5e60-4f52-8ecc-223f29af47c7.svg
 
 <!--START_SECTION:waka-->
 
