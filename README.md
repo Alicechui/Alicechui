@@ -21,4 +21,24 @@ Here are some ideas to get you started:
 No activity tracked
 ```
 
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
+
+<!--START_SECTION:SHOW_LINES_OF_CODE-->
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
