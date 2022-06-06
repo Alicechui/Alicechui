@@ -26,9 +26,9 @@ https://wakatime.com/badge/user/e1af12a1-5e60-4f52-8ecc-223f29af47c7.svg
 <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[/languages]?username=[alice-chui-855b5213a]" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-243-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-285-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@ https://wakatime.com/badge/user/e1af12a1-5e60-4f52-8ecc-223f29af47c7.svg
 
 > 🏆 13 Contributions in the Year 2022
  > 
-> 📦 75.8 kB Used in GitHub's Storage 
+> 📦 79.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,22 +47,22 @@ https://wakatime.com/badge/user/e1af12a1-5e60-4f52-8ecc-223f29af47c7.svg
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    22 commits     ██████░░░░░░░░░░░░░░░░░░░   26.51% 
-🌆 Daytime    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-🌃 Evening    35 commits     ██████████░░░░░░░░░░░░░░░   42.17% 
-🌙 Night      16 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.28%
+🌞 Morning    22 commits     █████░░░░░░░░░░░░░░░░░░░░   22.45% 
+🌆 Daytime    25 commits     ██████░░░░░░░░░░░░░░░░░░░   25.51% 
+🌃 Evening    35 commits     █████████░░░░░░░░░░░░░░░░   35.71% 
+🌙 Night      16 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Tuesday      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+Monday       23 commits     █████░░░░░░░░░░░░░░░░░░░░   23.47% 
+Tuesday      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-Sunday       55 commits     ████████████████░░░░░░░░░   66.27%
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+Sunday       55 commits     ██████████████░░░░░░░░░░░   56.12%
 
 ```
 
@@ -108,7 +108,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Alicechui/Alicechui/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/06/2022 11:15:56 UTC
+ Last Updated on 06/06/2022 18:50:23 UTC
 <!--END_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alicechui)](https://github.com/Alicechui/Alicechui)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicechui&layout=compact)](https://github.com/Alicechui/Alicechui)
