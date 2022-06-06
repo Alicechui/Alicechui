@@ -136,8 +136,8 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alice-chui-855b5213a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alice chui" height="30" width="40" /></a>
-<a href="https://instagram.com/alice0619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alice0619" height="30" width="40" /></a>
-<a href="https://discord.gg/Miau#5640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miau#5640" height="30" width="40" /></a>
+<a href="https://instagram.com/alicec0619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alice0619" height="30" width="40" /></a>
+<a href="https://discord.gg/SKY8J24C"center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miau#5640" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
