@@ -23,6 +23,7 @@ Here are some ideas to get you started:
           SHOW_LOC_CHART: "True"
 -->
 https://wakatime.com/badge/user/e1af12a1-5e60-4f52-8ecc-223f29af47c7.svg
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[/languages]?username=[alice-chui-855b5213a]" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%203%20mins-blue)
