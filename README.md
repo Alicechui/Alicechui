@@ -22,9 +22,7 @@ Here are some ideas to get you started:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
 -->
-https://wakatime.com/badge/user/e1af12a1-5e60-4f52-8ecc-223f29af47c7.svg
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[/languages]?username=[alice-chui-855b5213a]" />
-
+<img src="./Alicechui/WallpaperDog-20459624.jpg" width=700 height=300>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%202%20mins-blue)
 
