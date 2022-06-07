@@ -22,7 +22,7 @@ Here are some ideas to get you started:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
 -->
-<img src="./WallpaperDog-20459624.jpg" width=700 height=300>
+<img src="./WallpaperDog-20459624.jpg" width=1000 height=400>
 
 <!--START_SECTION:waka-->
 
