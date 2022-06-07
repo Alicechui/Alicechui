@@ -22,8 +22,10 @@ Here are some ideas to get you started:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
 -->
-<img src="./Alicechui/WallpaperDog-20459624.jpg" width=700 height=300>
+<img src="./WallpaperDog-20459624.jpg" width=700 height=300>
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-305-blue)
