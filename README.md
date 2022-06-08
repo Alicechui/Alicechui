@@ -31,17 +31,7 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
 
-> 🏆 13 Contributions in the Year 2022
- > 
-> 📦 79.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -66,31 +56,6 @@ Sunday       55 commits     ███████████░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   5 hrs 12 mins       ██████████████████░░░░░░░   72.11% 
-Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
-CSV                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
-VimL                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
-
-🔥 Editors: 
-VS Code                  7 hrs 3 mins        ████████████████████████░   97.58% 
-Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83% 
-Browser                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
-
-🐱‍💻 Projects: 
-sorowaha                 7 hrs 3 mins        ████████████████████████░   97.58% 
-vim-wakatime             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
-
-💻 Operating System: 
-Linux                    7 hrs 13 mins       █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in Java** 
 
@@ -103,9 +68,6 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Alicechui/Alicechui/main/charts/bar_graph.png) 
 
 
  Last Updated on 07/06/2022 18:49:35 UTC
