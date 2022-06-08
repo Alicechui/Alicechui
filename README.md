@@ -27,7 +27,12 @@ Here are some ideas to get you started:
 <img src="./WallpaperDog-20459624.jpg" width=1300 height=400>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%202%20mins-blue)     ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
-    ![Profile Views](http://img.shields.io/badge/Profile%20Views-342-blue)
+    ![Profile Views](http://img.shields.io/badge/Profile%20Views-342-blue)<p align="left">
+          
+<a href="https://www.linkedin.com/in/alice-chui-855b5213a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alice chui" height="30" width="40" /></a>
+<a href="https://instagram.com/alicec0619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alicec0619" height="30" width="40" /></a>
+<a href="https://discord.gg/Miau#5640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miau#5640" height="30" width="40" /></a>
+</p>
 
 
 
@@ -76,9 +81,3 @@ Saturday     4 commits      ░░░░░░░░░░░░░░░░░�
 Sunday       55 commits     ███████████░░░░░░░░░░░░░░   45.45%
 
 ```
-
-<p align="left">
-<a href="https://www.linkedin.com/in/alice-chui-855b5213a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alice chui" height="30" width="40" /></a>
-<a href="https://instagram.com/alicec0619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alicec0619" height="30" width="40" /></a>
-<a href="https://discord.gg/Miau#5640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miau#5640" height="30" width="40" /></a>
-</p>
