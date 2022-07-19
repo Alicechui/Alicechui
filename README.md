@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Alicechui/5b26e6c1-db22-4bd0-a6aa-2f36dee2bf7b.png" /></a>
-
 <!--START_SECTION:waka-->
 **I Mostly Code in Java** 
 
